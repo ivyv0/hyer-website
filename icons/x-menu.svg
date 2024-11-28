@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228.78 218.71">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: BaiJamjuree-Regular, 'Bai Jamjuree';
+        font-size: 78.77px;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="113.44" cy="100.31" rx="80.7" ry="78.12"/>
+  <text class="cls-2" transform="translate(76.15 126.27) scale(1.47 1)"><tspan x="0" y="0">X</tspan></text>
+</svg>
